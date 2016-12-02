@@ -61,11 +61,11 @@ public class Driver {
 	 * Tester
 	 */
 	public static void test() {
-		final String myUsername = "jbball81396@yahoo.com";
+		final String myUsername = "";	//enter username
 
-		final String myPassword = "Generaljb!";
+		final String myPassword = "";	//enter password
 
-		final String myFile = "C:/Users/Jabari/Desktop/Email Drafter/contacts.xls";
+		final String myFile = "";	//file path where contacts are located
 
 		display(myUsername, myPassword, myFile);
 	}
